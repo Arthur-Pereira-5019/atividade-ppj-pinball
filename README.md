@@ -1,1 +1,1 @@
-Jogo de Pinball 3D desenvolvido na aula de Progamação para Jogos do CTI Informática do IFSC Câmpus Gaspar
+Repository to work as backup of my 3D Pinball Unity Game developed on the PPJ (Programmation for Games) discipline of my IT course on IFSC.
